@@ -12,20 +12,13 @@ layout: default
 * Possess excellent strategic thinking, analytical and interpersonal skills; an effective communicator and team leader with skills in escalation management and conflict resolution
 
 # IT SKILLS
-JIRA Administration | Confluence | Microsoft Office | Database Management | Web Development | Publishing Tools | MS Project
-CERTIFICATIONS
-PMP Certification (Oct’20); Project Management Institute
-PRINCE2 Agile® Foundation and Practitioner (Sep’20); Axelos
-ITIL Foundation (Jun’20); Axelos
-CSM (Jan’19) Awarded by Scrum Alliance
-ACCP (Aptech Certified Computer Professional) (Oct’20); Aptech
-JIRA Administration and Confluence (Nov’19); Udemy
-MS Project (Nov’19); Udemy
+    JIRA Administration | Confluence | Microsoft Office | Database Management | Web Development | Publishing Tools | MS Project
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# CERTIFICATIONS
+* PMP Certification (Oct’20); Project Management Institute
+* PRINCE2 Agile® Foundation and Practitioner (Sep’20); Axelos
+* ITIL Foundation (Jun’20); Axelos
+* CSM (Jan’19) Awarded by Scrum Alliance
+* ACCP (Aptech Certified Computer Professional) (Oct’20); Aptech
+* JIRA Administration and Confluence (Nov’19); Udemy
+* MS Project (Nov’19); Udemy
