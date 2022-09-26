@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/architect/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/architect/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
+
 # PROFILE SUMMARY
 * Extensive experience in implementing Agile Scrum Methodology to improve communications between Engineering, Project Management, Application Development & Support
 * Impressive track record in project delivery, maintaining highest standards of quality & customer satisfaction across retail business and consumer space
