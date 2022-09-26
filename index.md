@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+# PROFILE SUMMARY
+Extensive experience in implementing Agile Scrum Methodology to improve communications between Engineering, Project Management, Application Development & Support
+Impressive track record in project delivery, maintaining highest standards of quality & customer satisfaction across retail business and consumer space
+Executed 15 projects in last 1 year with a team of 50+ members
+Collaborated with leadership teams to evaluate technology challenges, defined new structures and evangelized technical & product innovation within the organization
+Contributed towards driving growth with strategic initiatives & operational efficiencies; built networks, drove customer centricity & global outlook for clients across UK, US, and Germany
+Agile Team Facilitator, led global teams to manage projects in multiple domains; executed projects involving Agile Scrum Core Values, product enhancement, development, support and maintenance within time, budget & quality parameters, as per project management & best practice guidelines
+Steered New Age Digital Services, Agile Software Development, Customer Centricity, ITIL & Managed Services, Lean & Six Sigma, Pre-Sales & Support and Quality Management
+Possess excellent strategic thinking, analytical and interpersonal skills; an effective communicator and team leader with skills in escalation management and conflict resolution
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
