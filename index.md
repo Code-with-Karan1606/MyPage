@@ -14,7 +14,8 @@ layout: default
 * Possess excellent strategic thinking, analytical and interpersonal skills; an effective communicator and team leader with skills in escalation management and conflict resolution
 
 # IT SKILLS
-    JIRA Administration | Confluence | Microsoft Office | Database Management | Web Development | Publishing Tools | MS Project
+    JIRA Administration | Confluence | Microsoft Office | Database Management |
+    Web Development | Publishing Tools | MS Project
 
 # CERTIFICATIONS
 * PMP Certification (Oct’20); Project Management Institute
